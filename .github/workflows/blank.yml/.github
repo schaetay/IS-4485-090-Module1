@@ -1,4 +1,5 @@
-##print("    *\n   * *\n  *   *\n *     *\n***   ***\n  *   *\n  *   *\n  *****")
+print("    *\n   * *\n  *   *\n *     *\n***   ***\n  *   *\n  *   *\n  *****") 
+##This is all one one line
 
 print("     *     " * 2)
 print("   *   *   " * 2)
@@ -8,6 +9,7 @@ print("***     ***" * 2)
 print("  *     *  " * 2)
 print("  *     *  " * 2)
 print("  *******  " * 2)
+##This will print two arrows
 
-##print("    *\n   * *\n  *   *\n *     *\n***   ***\n  *   *\n  *   *\n  *****") * 2
-
+##print("    *\n   * *\n  *   *\n *     *\n***   ***\n  *   *\n  *   *\n  *****") * 2 
+##This will print two arrows but next to each other. 
